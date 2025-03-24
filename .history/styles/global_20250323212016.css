@@ -13,7 +13,3 @@
   --text-color-secondary: #cbd5e1;
 }
 
-body {
-  color: var(--text-color-primary);
-  background-color: var(--bg-color);
-}

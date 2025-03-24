@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --brand-color-light: #60a5fa ;
+  --brand-color-dark: #;
+  --bg-color: ;
+  --strocke-color: ;
+  --text-color-primary: ;
+  --text-color-secondary: ;
+}
