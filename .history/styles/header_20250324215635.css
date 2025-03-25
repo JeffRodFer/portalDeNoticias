@@ -1,0 +1,13 @@
+#primary {
+  padding-block: 20px;
+
+  div 
+
+  /* nesting css */
+  div:nth-child(2) {
+    margin-inline: auto;
+}
+div:nth-child(3) {
+  justify-self: end;
+}
+}

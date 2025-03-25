@@ -43,7 +43,6 @@ h1,h2,h3 {
 .container {
   max-width: 1280px;
   padding-inline: 32px;
-  margin-inline: auto;
 } 
 /* utility-first */
 .grid {
