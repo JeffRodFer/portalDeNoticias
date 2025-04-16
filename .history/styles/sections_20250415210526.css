@@ -14,11 +14,8 @@
    position: absolute;
    inset: 0;
    top: 50%;
-   background: linear-gradient(
-    180deg,
-    transparent 0%,
-    #020617 100%
-   );
+   backg
+   background-color: white;
 
 }
 }

@@ -6,19 +6,13 @@
   }
 .card {
   border-radius: 4px;
-  overflow: hidden;
-  object-fit: relative;
+  object-fit:re
 
   &::before {
    content: "";
    position: absolute;
    inset: 0;
-   top: 50%;
-   background: linear-gradient(
-    180deg,
-    transparent 0%,
-    #020617 100%
-   );
+   background-color: white;
 
 }
 }
