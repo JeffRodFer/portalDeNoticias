@@ -59,6 +59,5 @@ main {
   border-radius: 4px;
   font: 500 10px/1.2 var(--font-family);
   text-transform: uppercase;
-  color: var(--text-color-primary);
-  box-shadow: 0px 4px 16px rgba(2, 3, 23, 0.251);
+  color: var(--);
 }
