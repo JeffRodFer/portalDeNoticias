@@ -27,7 +27,7 @@
     padding: 24px;
 
     &::has(.tex-lg){
-      padding: 12px;
+      
     }
 
     h2 {

@@ -26,9 +26,7 @@
 
     padding: 24px;
 
-    &::has(.tex-lg){
-      padding: 12px;
-    }
+    &::has(.tex
 
     h2 {
       margin-top: 8px;
