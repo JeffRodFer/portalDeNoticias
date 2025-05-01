@@ -11,7 +11,7 @@
   object-fit:contain;
 
   &::before {
-  /* content: " */
+  content: "
    /* position: absolute; */
    inset: 0;
    top: 50%;

@@ -8,10 +8,10 @@
   position: relative;
   border-radius: 4px;
   overflow: hidden;
-  object-fit:contain;
+  object-fit: relative;
 
   &::before {
-  /* content: " */
+   content: "";
    /* position: absolute; */
    inset: 0;
    top: 50%;
@@ -22,7 +22,7 @@
    );
   }
   figcaption {
-    position: relative;
+    position: ;
     bottom: 0;
 
     padding: 24px;
