@@ -1,9 +1,4 @@
-section header {
-  border-top: 1px solid var(--stroke-color);
-  padding-block: 12px 24px;
-
-  font: var(--text-span);
-}
+se
 
 #featured {
   img {
@@ -18,7 +13,7 @@ section header {
 
   &::before {
    content: "";
-   position: relative;
+   position: absolute;
    inset: 0;
    top: 50%;
    background: linear-gradient(
@@ -44,22 +39,6 @@ section header {
 }
 }
 #weekly {
-header a {
-  justify-self: end;
-  align-items: center;
-  gap: 8px;
-
-  span {
-    background-image: url(../assets/icons/ArrowRightHover.svg);
-    width: 16px;
-    height: 16px;
-  }
-  &:hover span {
-    background-image: url(../assets/icons/ArrowRightHover.svg);
-  }
-
-}
-
   &>div {
     grid-template-columns:repeat(4, 350px);
   }
@@ -67,5 +46,4 @@ header a {
   img {
     height: 160px;
   }
-
 }

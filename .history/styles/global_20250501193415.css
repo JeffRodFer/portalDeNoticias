@@ -47,7 +47,7 @@ img {
 .container {
   /* display: flex;
   width: auto; */
-  max-width: auto;
+   max-width: auto;
   padding-inline: 32px;
   margin-inline: auto;
 } 

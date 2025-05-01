@@ -18,7 +18,7 @@ section header {
 
   &::before {
    content: "";
-   position: relative;
+   position: relat
    inset: 0;
    top: 50%;
    background: linear-gradient(

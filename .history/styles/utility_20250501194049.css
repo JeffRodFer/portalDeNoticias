@@ -3,7 +3,7 @@
   display: grid;
 }
 .grid-flow-col {
-  grid-auto-flow: column;
+  /* grid-auto-flow: column; */
 }
 
 .grid-cols-2 {

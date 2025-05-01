@@ -3,11 +3,11 @@
   display: grid;
 }
 .grid-flow-col {
-  grid-auto-flow: column;
+  grid-auto-flow: column
 }
 
 .grid-cols-2 {
-  grid-template-columns:auto;
+  grid-template-columns: 1fr 1fr;
 }
 
 .gap-16 {

@@ -18,7 +18,7 @@ section header {
 
   &::before {
    content: "";
-   position: relative;
+   position: absolute;
    inset: 0;
    top: 50%;
    background: linear-gradient(
@@ -54,9 +54,7 @@ header a {
     width: 16px;
     height: 16px;
   }
-  &:hover span {
-    background-image: url(../assets/icons/ArrowRightHover.svg);
-  }
+  &:hover span 
 
 }
 

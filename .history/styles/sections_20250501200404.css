@@ -18,7 +18,7 @@ section header {
 
   &::before {
    content: "";
-   position: relative;
+   position: absolute;
    inset: 0;
    top: 50%;
    background: linear-gradient(
@@ -46,18 +46,12 @@ section header {
 #weekly {
 header a {
   justify-self: end;
-  align-items: center;
-  gap: 8px;
 
   span {
     background-image: url(../assets/icons/ArrowRightHover.svg);
     width: 16px;
-    height: 16px;
+    height: ;
   }
-  &:hover span {
-    background-image: url(../assets/icons/ArrowRightHover.svg);
-  }
-
 }
 
   &>div {

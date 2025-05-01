@@ -45,9 +45,9 @@ img {
 }
 
 .container {
-  /* display: flex;
-  width: auto; */
-  max-width: auto;
+  display: flex; */
+  /* width: auto; */
+  /* max-width: auto;
   padding-inline: 32px;
   margin-inline: auto;
 } 
@@ -55,7 +55,7 @@ main {
   margin-top: 40px ;
 }
 .content-tag {
-  /* display: inline-block; */
+  display: inline-block;
   background-color: var(--brand-color-dark);
   padding: 4px 8px;
   border-radius: 4px;

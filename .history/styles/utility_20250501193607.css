@@ -7,7 +7,7 @@
 }
 
 .grid-cols-2 {
-  grid-template-columns:auto;
+  grid-template-columns: 1fr 1fr;
 }
 
 .gap-16 {
