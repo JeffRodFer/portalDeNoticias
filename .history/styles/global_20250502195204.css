@@ -56,7 +56,7 @@ main {
   row-gap: 80;
   column-gap: 32px;
 
-  grid-template-columns: 1fr 30%;
+  grid-template-columns: 1fr 
 
   grid-template-areas: "featured featured" "weekly weekly" "ai aside";
 

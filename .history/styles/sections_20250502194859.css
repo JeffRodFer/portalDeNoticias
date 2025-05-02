@@ -83,21 +83,8 @@ header a {
     margin-block: 8px 4px;
   }
 
-  aside {
-    grid-area: aside;
-  }
-
-  more {
-    h3 {
-      margin-top: 8px;
-    }
-
-
-    img{
-      width: 72px;
-      aspect-ratio: 1/1;
-      object-fit: cover;
-    }
-  }
+  aside [
+    grid-area: ;
+  ]
 
 }
